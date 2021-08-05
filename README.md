@@ -1,13 +1,6 @@
-# CoolStuff
-## You don't say!
-### This repository contains cool stuff
-#### Here's a list
+# Instrument Emulator
+This project was created for [Local Hack Day: Share](localhackday.mlh.io)
 
-1. Random Word Generator using API
-2. Generative Art
-3. Blockchain
-4. Flappy Object Game
-5. Command Line Game
-6. Music Visualizer
-7. Weather API Project
-8. A QCNN
+If you'd like to join from scratch, `git clone --branch template https://github.com/maralihart/instrument-emulator.git` 
+
+Music sourced from [AudioMicro](https://www.audiomicro.com/free-sound-effects/free-musical-instrument-and-sound-effects)
